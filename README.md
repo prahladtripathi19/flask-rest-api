@@ -1,15 +1,15 @@
 # flask-rest-api
 
 Following dependecy files to install
-pip install flask-restful
-pip install flask-sqlalchemy
-pip install flask-marshmallow
-pip install marshmallow-sqlalchemy
-pip install flask-mysql
-pip install Flask-Migrate 
-pip install Flask-Script
-pip install flask-bcrypt
-pip install pycrypto
+1.pip install flask-restful
+2.pip install flask-sqlalchemy
+3.pip install flask-marshmallow
+4.pip install marshmallow-sqlalchemy
+5.pip install flask-mysql
+6.pip install Flask-Migrate 
+7.pip install Flask-Script
+8.pip install flask-bcrypt
+9.pip install pycrypto
 
 
 Once the all above dependency installed then clone the repository.
